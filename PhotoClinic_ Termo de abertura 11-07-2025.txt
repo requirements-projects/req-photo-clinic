@@ -1,0 +1,319 @@
+# PhotoClinic: Termo de abertura 11-07-2025
+
+  Meeting started: 7/11/2025, 9:10:39 AM
+  Duration: 55 minutes
+  Participants: Hugo Seabra (HSB Tech), Raquel Oliveira
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/jae98AGH7Cs6Ibbu4T6S?o=txt)
+
+    
+
+  ## Notes
+
+  Estrutura hierárquica de dados:
+
+- clínica
+- usuario (com papel)
+- áreas de operação:
+  - preparação  (fotos)
+  - atendimento clínico
+
+- prontuário do médico auxiliado com comentários inseridos por voz ou texto em partes da foto.
+
+- Ambiente do médico
+
+- Ambiente móvel para comparação de fotos
+- Ambiente móvel para operador de fotos
+
+- Backoffice do produto: onboarding de instituiação (clínica, hospirtal, etc), médicos, usuários em geral, etc.
+
+- Onboarding de treinamento do usuário
+
+- Plano de monetização pendente
+- Volumetrias pendentes
+
+
+  
+
+  ## Transcript
+
+  00:00 Raquel Oliveira: Isso isso comecei a gravar.
+00:01 Hugo Seabra (HSB Tech): a gravação Beleza eu vou ativar minhas transcrições inteligentes aqui também que aí a gente Organiza depois eu te mando o resumão.
+00:12 Raquel Oliveira: Não beleza aqui é o brilho do projeto, né.
+00:14 Hugo Seabra (HSB Tech): bom É o briefing do projeto basicamente é uma é uma é uma tentativa de definir um escopo, né? E aí Eu vou interpretar aqui o cliente do projeto é você e não e não o Como é o nome dele.
+00:32 Raquel Oliveira: o Paulo
+00:33 Hugo Seabra (HSB Tech): O Paulo né? Porque nesse momento ele o Paulo por exemplo, colocou definições muito Claras, né? Sobre sobre até onde o projeto Ito mais e você tinha colocado umas definições um pouco mais extensas, então. Vamos considerar que
+00:46 Raquel Oliveira: é porque Existem o quê esse aplicativo fotodoc? Até surgiram se navegarem ele se quiser fazer uma assinatura eu pago até para você fazer essa navegação nele. Você vai ver que é um aplicativo. Assim que você baixa tá você faz suas configurações básicas ali e vai ter o maisinho ali embaixo você adicionar um paciente pode adicionar o Hugo adicionar manualmente nome. E cada paciente vai ter o seu álbum, né? Então quando você vai lá no na clínica de harmonização facial vou te colocar num fundo de uma parede.
+01:28 Raquel Oliveira: E eu vou começar a clicar no mais de uma foto um botãozinho de mais uma foto e vai aparecer algumas molduras aqueles riscos de moldura ângulo.
+01:37 Hugo Seabra (HSB Tech): Lembro o rosto lateral rosto de frente rosto tecido.
+01:41 Raquel Oliveira: Porque se for corporal.
+01:43 Hugo Seabra (HSB Tech): Não não entendi. Deixa eu ver.
+01:45 Raquel Oliveira: Isso aí vai ter os ângulos ali com as linhas tracejadas e etc para facilitar a foto, né? Então você tem a primeira foto? Qual que é a segunda função muito muito importante o modo fantasma que eu pego a sua foto da sua primeira vez a sua própria foto já não é mais a moldura contracejado. É o modo fantasma onde o seu rosto fica. Fica mais transparente, né? Para eu encaixar no seu rosto e encontrar a foto ideal porque eu quero comparar a sua anterior com a sua foto fantasma, entendeu? Então. Eu tirei a sua foto.
+02:30 Hugo Seabra (HSB Tech): Mas a foto fantasma é um momento posterior.
+02:33 Raquel Oliveira: Posterior aí daqui 30 Dias 60 dias quando a pessoa vem eu não tiro essa foto considerando os ângulos das molduras eu tiro Considerando o Fantasma. Porque eu já tenho uma base sua.
+02:47 Hugo Seabra (HSB Tech): Sim, entendi. Ou seja é uma foto com opacidade Alta, ou seja para você transparente para você fazer uma foto em cima para depois eu fazer aquele
+02:55 Raquel Oliveira: E exatamente ela tem essa opacidade, então eu vou conseguir encaixar o seu
+02:55 Hugo Seabra (HSB Tech): movimento que você queria perfeito.
+03:00 Raquel Oliveira: rosto direitinho, porque é você mesmo ali, né? Então eu vou tirar foto eu consigo fazer um comparativo um pouco um pouco melhor é aquelas funções de colagem, né diante e depois e etc. É um aplicativo simples sabe se você navegar no photodown.
+03:17 Hugo Seabra (HSB Tech): então Nós não vamos ter máscaras por enquanto eu tava pesquisando sobre por exemplo filtro essas coisas são muito muito sistemas proprietários, né e muitos muitos sistemas especialistas. A gente não vai ter filtros, por enquanto a gente não vai tentar prever como é que o cara vai ficar no futuro não, né?
+03:34 Raquel Oliveira: Não é não não o que o que o que pode acontecer como etapas futuras é? É a gente conseguir fazer umas avaliações por ar que a gente consiga talvez entender. A transformação do rosto assim no na unidade de medida milimétrica, entendeu? Porque às vezes um preenchedor ele vai ter essa essa prerrogativa de melhorar a espessura aqui no bigode chinês, mas é milimétrico não sei se a gente vai conseguir chegar a esse ponto específico, mas não é nenhuma uma critério muito óbvio não porque dentro do conceito quanto mais tecnologia eu coloco é maravilhoso. Tá mas eu perco uma coisa que chama valor agregado do olho do médico, então assim é mais ou menos aquela coisa assim, quanto mais tecnologia eu coloco.
+04:29 Raquel Oliveira: Menos mais o médico vira uma commodity porque quem resolve é a tecnologia, entendeu? Mas assim.
+04:34 Hugo Seabra (HSB Tech): E talvez e talvez essa esse passo muito mais cuidadoso que você quer seguir, né? Você tem.
+04:39 Raquel Oliveira: Exato porque na verdade é um ponto de vista artístico, né? Se 10 médicas tiverem Hugo dermatologista, as 10 vão ter uma percepção diferente uma avaliação sobre o seu nariz sobre sua lateral de rosto, então tem essas percepções, né? Então é um ponto é um pouco artístico isso né? Então tem um pouco dessa
+05:03 Hugo Seabra (HSB Tech): As fotos que forem de comparação a gente pode armazenar para depois dá para
+05:03 Raquel Oliveira: lógica, então assim é um aplicativo simples com algo por exemplo. A Raquel foi na dermata essa semana lá na mesma dermato que usa-se fotodoca Raquel chega lá na frente da médica, ela pega o tablet busca o álbum da Raquel pegar a última foto com a foto do dia do dia já faz uma colagem ali e ela vê na hora uma diferença. Por que que isso é interessante que que normalmente as pessoas utilizam galeria do celular no iPhone, tá? Não tem moldura não, tem fantasma e consome galeria consome galeria com sua mulher, Cláudia. Você falou que
+05:49 Hugo Seabra (HSB Tech): acessar na web?
+05:50 Raquel Oliveira: Isso A ideia é que é um álbum específico para você ver a Raquel é uma crente da Raquel que tem um tera de foto lá e não é infinito, entendeu? Então assim e não tem tecnologia como não é um servidor não consegue comprimir não consegue fazer esse trabalho que dá para você fazer no desenvolvimento, né, então.
+06:08 Hugo Seabra (HSB Tech): otimizações
+06:09 Raquel Oliveira: Armazenar um álbum mil fotos se ela gasta um tera se armazenar mil fotos no servidor preparado gasta sei lá um mega, né? Toda no exemplo aqui, né,
+06:19 Hugo Seabra (HSB Tech): não não você tá certo dá para otimizar e sem perder qualidade dependendo
+06:19 Raquel Oliveira: então.
+06:23 Hugo Seabra (HSB Tech): como é que
+06:23 Raquel Oliveira: Assim o critério é o que é um aplicativo que é um álbum ele tem essas molduras ele tem esse modo fantasma, ele tem um modo de colagem que fica prático obviamente tem algumas pequenas coisas que a gente quer alterar, mas a gente quer seguir a prerrogativa do básico, porque a gente seguir a prerrogativa do projeto infinito, ele nunca vai acabar.
+06:49 Hugo Seabra (HSB Tech): Sim sim e alguns conceitos que eu quero que eu quero seguir com você para
+06:50 Raquel Oliveira: A gente ainda não mas pode colocar assim fotoclínica fotoclínica.
+06:53 Hugo Seabra (HSB Tech): formalizar algumas coisas, por exemplo, você tem algum título para esse projeto? Autoclinic Beleza então aqui no caso por exemplo pensando um pouquinho na experiência, né? Um paciente que visita um médico, ele deseja ir lá para fazer um tratamento estético e certamente estético pode ter diferentes fins e
+07:16 Raquel Oliveira: certo sim
+07:19 Hugo Seabra (HSB Tech): diferenças fins pode ser diferentes partes do corpo basicamente é quando eu for usar o aplicativo eu defino as partes do corpo, eu gostaria de tirar foto. Pode ser até perna é Se for seja em qualquer lugar que a gente pode. Molduras né? E aí por exemplo o cara um podólogo pode usar isso, se ele for
+07:31 Raquel Oliveira: Morro do Brasil pode exatamente?
+07:33 Hugo Seabra (HSB Tech): fazer a parte do pé, ela tá tudo certo, né? Nariz especificamente o nariz não rosto ou seja dá para fazer dá para fazer diferentes molduras. E aí eu seleciono a moldura que eu quero fazer a foto. E aí de acordo com o foco. Eu exijo uma quantidade x de fotos mínima, né? Ou seja, eu bato ali uma duas três, né? E depois vira uma duas três e vou seguindo essa estrutura.
+08:00 Raquel Oliveira: Existe uma regra de mais ou menos umas 20 fotos na sua primeira consulta porque tem a moldura facial. Só que esse mesmo aplicativo do photodoc ele tem umas molduras básicas para o facial, mas existe umas regras que não estão na moldura. Por exemplo. Vou tirar uma frontal sua eu vou encontrar lá o ângulo do pescoço. Vou tirar só que nesse mesmo ângulo eu vou falar assim, faça a cara sorrindo a pessoa tem que sorrir.
+08:32 Raquel Oliveira: Não tem uma moldura para o sorriso tem uma moldura para Face, faz cara de bravo. A pessoa tem que fazer cara de bravo, porque tem que aparecer é faça puxa assim para ver como é que tá elasticidade da pele. Não tem necessariamente ou moldura para isso, mas são dentro da moldura fácil e principal. Eu tenho micro expressões que precisam ser tiradas fotos naquele momento ali eu peço para o paciente fazer cara de bravo, cara de sorriso é
+09:01 Hugo Seabra (HSB Tech): E aí a gente coloca apenas uma sombrinha falando assim, puxa, o roxinho faz
+09:07 Raquel Oliveira: checar de cheiro ruim. Tem que fazer assim, então são pré-moldurinhas, só que elas não estão desenhadas. Eu não sei se
+09:18 Hugo Seabra (HSB Tech): cara de bravo, né? Então a gente vai orientando.
+09:20 Raquel Oliveira: isso Pequenas evoluções que não tem no fotogórico é o quê? Quando eu tiro isso na foto do Paulo vai tudo para moldura Paulo. Se fizer se conseguir taguear né? Eu vou conseguir saber o que que a foto de cheirinho ruim que que a foto essas coisinhas básicas assim são evoluções legais, entendeu? Mas ainda assim do ponto de vista de lógica, se fizer igual o photodoc que a gente vê alguns problemas a gente já começa bem.
+09:50 Hugo Seabra (HSB Tech): Eu pensei eu pensei em fazer essa essas várias fotos, mas a pessoa pode tirar várias ali por exemplo, mas depois ela teria que selecionar um ela teria que naturalmente selecionar uma foto por por micro expressão e ela vai falar cara. Eu tirei três fotos fazendo cara ruim, né? Porque por algum motivo selecionar segundo as outras vão ser excluídas. E aí eu vou. Fazendo o portfólio de acordo com o protocolo como nós tivéssemos cumprindo um protocolo.
+10:14 Raquel Oliveira: Isso é comum fazer assim. Ah, faz cara de bravo. É como ela cheirar em três duas ou uma vai depender sim, se o ângulo Ficou legalzinho e tal etc é um eu vou até te mandar depois no seu privado aqui que eu pedi para três profissionais falarem como é que elas fazem a foto. Elas usam uma galeria você vai ver como é que é o processo delas e às vezes assim ela tem que pegar a foto a Câmera e tirar uma sequência assim de 30 a 40 de uma vez para depois ela selecionar porque não tem uma simples moldura então você vê que assim é tão óbvio que uma moldura e um fantasma você resolve
+10:47 Hugo Seabra (HSB Tech): é
+10:52 Raquel Oliveira: 80% do problema, entendeu?
+10:54 Hugo Seabra (HSB Tech): Acho que para todas as fotos.
+10:56 Raquel Oliveira: E isso aí, qualquer questão foto docker é um bom aplicativo, se você navegar, né? Você vai ver que é só que ele a gente estudou. Ele parece que é um aplicativo assim que tá numa software House que fez e tem uma médica parceira, então assim não tão posicionados não. Estou fazendo um bom trabalho de vendas, então assim sabe aquela história do telegram é um WhatsApp. É melhor mas o WhatsApp fez um trabalho melhor meu ponto de vista, entendeu?
+11:23 Hugo Seabra (HSB Tech): Não tem público.
+11:24 Raquel Oliveira: Então é mais ou menos isso, né? Porque tem um que não tem espaço para outro, né? Então se o outro tiver um canhão de vendas maior uma potência de venda maior que é o desenho que o Paulo tá estruturando para esse assim que ele tem um canhão de vendas, ele tem acessos para fazer um canhão assim, sei lá, o cara ele tem canhão para mil usuários em seis meses, né? O Excel aceita, mas o canhão ele tem se fosse eu e você Fazendo a gente poderia desenvolver o negócio mais bonito de todos mas nosso canhão de vento.
+11:55 Raquel Oliveira: É ele tem então, o canhão dele assim é bem inteligente, sabe então é mais prático então.
+12:04 Hugo Seabra (HSB Tech): A gente precisa a gente precisa entrar na nos membros depois da depois da moldura então por exemplo depois que nós temos outras visitas. Ou seja a
+12:10 Raquel Oliveira: tá
+12:14 Hugo Seabra (HSB Tech): moldura só na primeira visita do paciente.
+12:17 Raquel Oliveira: moldura basicamente
+12:17 Hugo Seabra (HSB Tech): Depois a partir da segunda visita de Atlante tem que ter um controle de visita paciente médico também para a gente entender que que já existe uma primeira uma introdução aquele cliente naquela naquele procedimento e que as molduras seguintes vai ser a própria face do cliente com a opacidade.
+12:34 Raquel Oliveira: Nessa fase inicial a gente a gente quer assim coisas que a gente sabe que tem
+12:35 Hugo Seabra (HSB Tech): E depois a gente vai que você chamou de fantasma, né? Então é a partir disso, por exemplo eu habilito, né? A partir da segunda em diante que eu já concluo a segunda eu habilito as comparações. Se tiver terceira quarta quinta eu posso comparar a primeira com terceira segunda com quinta eu posso selecionar essas comparações para ficar fácil. Essa estrutura. O médico nessa comparação vai imputar alguma informação nessa comparação ou não precisa.
+13:08 Hugo Seabra (HSB Tech): ok
+13:12 Raquel Oliveira: uma diferença boba que não tem hoje. Se você conseguir colocar na foto em cima a data já resolve muita coisa, mas você consegue isso fácil sem input o que a gente quer de empute é o que depois tá depois eu pegar o rosto da pessoa eu clicar no rosto da pessoa. Tipo na bochecha aí abre uma Flag um quadrinho eu vou selecionar assim restin line e o estimulador, coloquei três seringas aqui eu clico na testa botox, coloquei o Botox porque de alguma forma quando eu clicar naquela foto eu consigo ver os pontos e consiga ver esse histórico que foi inserido ali.
+13:53 Hugo Seabra (HSB Tech): Então você acha você acha que de repente não a primeira versão ou numa terceira em sequência um plano de MVP sequencial a gente coloca um campo texto desses observações com o áudio também que ele pode clicar e gravar um áudio por voz de transcrever porque isso também é fácil aplicar.
+14:07 Raquel Oliveira: Também acho legal.
+14:07 Hugo Seabra (HSB Tech): E aí, e aí, a gente pode depois uma versão seguinte colocar uma máscarazinha a hora que ela fala o procedimento a gente liga o procedimento que ela acabou de falar de descrever um campo separado quer descrever com o número dois aí ela marca o número dois só só colocam dois assim.
+14:21 Raquel Oliveira: Hoje é possível.
+14:21 Hugo Seabra (HSB Tech): Que vai ficar simplificado, né? E aí depois ela só ela só fica e visualiza.
+14:25 Raquel Oliveira: Também é possível porque que acontece é uma ferramenta a gente entende que é uma é simples, mas é uma ferramenta de trabalho é uma ferramenta então
+14:36 Hugo Seabra (HSB Tech): E aonde e aonde a proposta de valor para mim, ela precisa ser um pouquinho mais
+14:38 Raquel Oliveira: assim se bem utilizado é o jogo para profissional médico fisioterapeuta entender que a melhor forma é se ele tiver um bom álbum uma boa colagem uma boa foto uma um bom ângulo é a melhor jeito dele mostrar para os pacientes que houve resultado e também mostrar para outros, né? Até outros pacientes, eu tenho uma boa galerinha uma galeria organizada. Se você perguntar é um Business muito mais de organização do que hiper tecnologia sabe então.
+15:16 Hugo Seabra (HSB Tech): afinada no seguinte sentido o médico pode utilizar esse sistema como o histórico dos procedimentos que ele realizou com aquele paciente que pode voltar depois de um ano e o médico tentar lembrar daquilo que é Onde por
+15:26 Raquel Oliveira: exatamente
+15:27 Hugo Seabra (HSB Tech): exemplo a experiência só mobiles, unicamente mobile, pode limitar ou seja. Seria legal se o médico tivesse isso lá na tela dele e depois um tabletzinho que onde ele vai mostrar a comparação para o cliente por exemplo e ele fala assim, deixa eu te mostrar ele clica lá por exemplo e abra no tablet e ele mostra para o cliente no tablet, por exemplo.
+15:45 Raquel Oliveira: Isso hoje nesse fotodok é meio assim, por exemplo lá na sala de preparação. A Maria Tira a foto da paciente ele tá no álbum da paciente automaticamente o tablet que tá lá na mesa da médica a foto já já tá lá então a médica.
+16:01 Hugo Seabra (HSB Tech): O que o que o Paulo falou por exemplo Nessa versão Inicial nem usuário iria
+16:04 Raquel Oliveira: Antes dela ver a paciente ela não precisa ir lá ela vai só selecionar a paciente o paciente o Hugo já vai ver que a foto apareceu lá então. Tem esse usuário porque automaticamente já consegue ver essas possibilidades também.
+16:22 Hugo Seabra (HSB Tech): ter ou seja, a gente teria que fazer uma separação disso de alguma maneira, né? Ou pelo menos ou pelo menos diárias distintas, né?
+16:26 Raquel Oliveira: Que que acontece quando a gente fala de não ter usuário porque como tem a Clínica a clínica vai ser o usuário teste para saturar para saturar os habilidade então ai o modelo faz via pecar né? Aquele modelo único lá dentro da Apple que não precisa aprovar lá faz no modo teste. Aí eu preciso colocar assinatura para pagar não precisa porque é teste. Então a gente vai tirar algumas coisas, mas para o modo teste o usuário o multiusar ele precisa ter pelo menos uma lógica porque pode ser um usuário único não é um problema, entendeu? Mas de que se eu consigo usar em dois demais, entendeu? Eu tenho pelo menos utilizar em muitos na verdade em vários dispositivos, porque eu vou ter duas salas de preparação com dois iPhones tirando foto.
+17:23 Raquel Oliveira: Tenho duas salas de preparação com dois iPhones tirando foto e os tablets eu vou ter cinco tablets nos consultórios e as fotos tem que aparecendo lá, entendeu? Então aqui na minha lógica aqui de desenho para MVP. Eu vou desenhar isso aqui sem usuário, mas como Multiplus. Então beleza não é o problema porque a gente validar. Eu só preciso ter um negócio nem precisa fazer login. Eu só preciso que ele seja habilitado em vários dispositivos, entendeu?
+17:50 Hugo Seabra (HSB Tech): Perfeito não então tá eu.
+17:52 Raquel Oliveira: E a gente a gente satura dentro a utilização aí depois a estrutura.
+17:56 Hugo Seabra (HSB Tech): Separei aqui eu separei eu separei uma estrutura da arca aqui para a gente definir Clínica e deixar ela fixa pelo menos para deixar ela fixa. Já que é uma clínica só mas depois é o que foi expandir já está estruturado o usuário com papel e um usuário simples logo alguém sem quem ele é para depois só lhe ligar, ele é uma área de operação preparação onde vai tirar as fotos atendimento Clínico. Vai ter outras áreas além da preparação atendimento clientes por enquanto.
+18:20 Raquel Oliveira: não atendimento aí pode ter um master aí mas
+18:21 Hugo Seabra (HSB Tech): É isso. Não aí mas tem padrão, né? Porque precisa minimamente configurar o sistema
+18:26 Raquel Oliveira: É isso exato, É mas o ponto de utilização.
+18:28 Hugo Seabra (HSB Tech): mas Eu vou deixar eu vou deixar fácil, por exemplo ali um administrador uma web com administração simplesinha não com alta experiência só para organizar
+18:36 Raquel Oliveira: e
+18:39 Hugo Seabra (HSB Tech): algumas coisas, mas é o suficiente, ou seja o Depois do procedimento que eu faço a sombra e eu faço e eu marco por exemplo um determinado ponto na foto, por que que eu falo ponto na foto porque pode ser qualquer ângulo, então é? Na foto vai determinar o local quando eu marco o ponto na foto e faço uma
+18:55 Raquel Oliveira: sim
+18:57 Hugo Seabra (HSB Tech): observação daquilo a hora que aí vai ficar lá um verdinho lá que eu clico lá e vejo a minha observação vou deixar inicialmente uma versão por texto, mas depois ele pode tipo colocar o ponto e gravar uma voz e transcrever ou deixar o áudio porque porque o médico pode só falar isso rapidão pá pá, né? Hoje em dia isso é fácil e talvez aí é uma pergunta que eu te faço já já planejarem MVP seguintes uma versão web.
+19:23 Hugo Seabra (HSB Tech): Que possa visualizar as mesmas coisas no Tablet, mas com a experiência de formulário um pouco mais elaborada para edição para estruturação seria mais ou menos nesse caminho.
+19:33 Raquel Oliveira: pode eu confesso que Seria assim uma décima etapa não seria uma prioridade.
+19:43 Hugo Seabra (HSB Tech): eu tô eu tô planejando um projeto enxuto ideal você vai você vai ver que
+19:43 Raquel Oliveira: e isso
+19:48 Hugo Seabra (HSB Tech): tipo assim, deixa eu te eu vou te mostrar um detalhe aqui que eu costumo fazer na Quando eu for te cobrar o desenvolvimento dos requisitos o planejamento final que eu vou te entregar, esse aqui ó, deixa eu te mostrar.
+20:02 Raquel Oliveira: Vai contemplar até a fase. Sim, sim.
+20:05 Hugo Seabra (HSB Tech): É por exemplo isso aqui é um projeto exemplo que eu acabei de entregar e tá indo para o desenvolvimento vai ter seis desenvolvedores prontinhos para desenvolver esse cara aqui, como é que ele funciona, ele tem um planejamento de MVP vertical e horizontal. E ele tem um mapa de dependências organizando a estrutura por todo por módulo esse que o projeto completo grande, né um projeto com 18 módulos, né gigantesco bicicleta especificamente de de de boy View é de pecuária.
+20:31 Hugo Seabra (HSB Tech): E aí ele tem os módulos escrevendo os módulos e organiza as prioridades e a estrutura de correlações. Entre esses módulos para determinar sequência que ele vai ser desenvolvido. Depois disso existe uma compreensão Clara de O que é esse projeto que é mais ou menos uma consolidação do briefing depois que esse tema de abertura vai fazer. Os planos de jornadas de usuários que a gente vai organizar para depois sim planejar aí o planejamento horizontal e vertical. Você já está acostumado quando ele funciona da seguinte maneira.
+20:59 Hugo Seabra (HSB Tech): De acordo com o amadurecimento do projeto eu preciso ou não fazer validações na ponta com o cliente final. Se eu precisar fazer na conta com cliente final aí vai o modelo mesmo solta mais rápido possível válido com cliente mais rápido de maneira horizontal, mas se é um projeto interno, eu não preciso ter todo esse estresse com o cliente falando que ele Quer o próprio dono do produto fala o que ele quer que é o nosso caso e aí entra o MVP vertical que é um MVP onde a gente vai desenvolver modo da moda e aí sim, a gente vai fazer um planejamento tá vendo que existe uma etapa 1, então etapa um é cara foto como moldura entregamos foto com moldura tirou foto armazenando no servidor entrega, entendeu? É onde a gente vai fazer essa estrutura então assim quando fala assim tem uma versão é cara aqui tem esse cara que tem 14 fases.
+21:48 Hugo Seabra (HSB Tech): Bom lá na frente é isso? Mas por que que eu estou visualizando? Eu estou visualizando que não é só uma experiência de demonstração ao paciente sobre a evolução dele, mas também uma estrutura organizacional do médico de também utilizar esse sistema como um histórico das próprias procedimentos que ele está realizando se eu se eu tenho esses dois personas olhando né? Ou seja,
+22:11 Raquel Oliveira: exatamente
+22:15 Hugo Seabra (HSB Tech): o comparativo é o olhar do paciente, mas o histórico não o histórico é o olhar do médico se eu tenho dois personas distintos, eu teria que construir uma experiência para ambos de maneira distinta.
+22:28 Raquel Oliveira: sim
+22:28 Hugo Seabra (HSB Tech): E eu tenho um terceiro que é a experiência de quem tá de bater na foto que a foto lá por exemplo da sombra, né do Shadow lá é uma experiência que não é nem do paciente nem médico é de quem tá tirando a foto que pode ser que pode ser um médico ou não, né? Pode ser estagiária.
+22:44 Raquel Oliveira: Que é trabalhoso encontrar o ângulo encontrar é trabalhoso?
+22:48 Hugo Seabra (HSB Tech): Para caramba, então nós temos até agora no presente momento três personas, mas é claro que se a gente for falar assim, cara, qual que é o primeiro sistema primeiro sistema é comparação de rosto personagem, cara, morre aí, cara, talvez a gente resolve isso nos três primeiras fases, por exemplo, já entrega e já mostra o negócio. Quando eu for fazer um orçamento do desenvolvimento para você, eu vou fazer o desenvolvimento por por fase.
+23:10 Raquel Oliveira: sim
+23:11 Hugo Seabra (HSB Tech): Então não precisa fazer o orçamento do projeto do produto ideal, mas na engenharia de requisitos que é o primeiro orçamento que eu vou fazer para preparar esse produto a gente não pode ficar se regulando ao projeto enxuto porque a gente vai se perder vai perder vai perder oportunidade, vamos dizer assim então aqui por exemplo que eu sugiro para nós é fazermos um
+23:26 Raquel Oliveira: E não Inclusive, a gente vai até acessar um advogado para regularizar essa
+23:30 Hugo Seabra (HSB Tech): planejamento do produto Inicial ideal então por exemplo é vale a pena cumprimos a ideia de que nós temos um Persona médico que precisa experimentar esse sistema para fazer três coisas distintas lembrar lembrar. Qual é o procedimento teu olhar clínico para saber o procedimento que ele tá fazendo no paciente com a comparação que o paciente também olharia e também a organização estrutural de como ele vai lembrar do atendimento de maneira histórica daquele atendimento. Se isso for validado por exemplo. Talvez um ambiente mobile somente não é ideal e a gente.
+24:05 Hugo Seabra (HSB Tech): Planeja uma web esse web fica bem simplificado o cara loga e vai ter a mesma experiência que tá no mobile, coloca lá na tela para o cara e faz um negócio acontecer os dados já estão no servidor já estão no servidor. E aí o seguinte algum dia ele fala assim cara. Joga fora esse negócio você vai fazer pela web vai fazer pela mobile. Eu não sei eu acho que depende se se for ter coisas que envolvem perda de informações, aí nós teremos que ter uma coisa, por exemplo, eu tenho eu tenho uma coisa muito muito rígida nos meus planejamentos que é um controle de acesso e permissões e permissões controladas basicamente.
+24:44 Hugo Seabra (HSB Tech): Vou excluir cara excluir tem que ser pessoa específica no ambiente específico identificado específico, tá? Então aí lá na frente. Quando esse negócio ficar feio mesmo, pô, cara. É rosto é biometria biometria, ela entra nos fatores de lgpd. Não dá para ser por exemplo a revelia então quando você for escalar esse sistema cabe você por exemplo fazer o cliente assinar, ouve a voz ouvir algum lugar falando que ele pode que ele aceita tirar foto dele então por exemplo, ele vai ensinar um papel depois a pessoa tira a foto do papel e faz upload do documento assinado que ele aceitou a tirar foto porque assim cara não dá para fazer a revelia nos anos de hoje.
+25:24 Raquel Oliveira: parte jurídica, inclusive os usuários que são as personas ali a menina da preparação a Maria. Ela para acessar o dela. Ela também tem que liberar o aplicativo ou na biometria ou na face porque a Maria que tirou a foto a Maria que tá vendo Imagina eu tenho um álbum. Com diversas fotos, eu tenho fotos aqui na clínica de pessoas famosas, entendeu? Então assim até o usuário interno da Clínica. A gente tem que nos proteger dele, né? Então não hoje é um tablet que tá lá na mesa que não tem essa essa segurança eu Paulo se eu chegar lá eu consigo ver foto de qualquer paciente de qualquer região do corpo que tá lá.
+26:06 Hugo Seabra (HSB Tech): Cara isso é muito complexo, isso é muito complexo.
+26:08 Raquel Oliveira: Isso exatamente. Não concordo plenamente então do ponto de vista de lgpd de proteção quando a gente for para autorização do usuário é isso se é a
+26:16 Hugo Seabra (HSB Tech): então
+26:16 Raquel Oliveira: Maria de preparação que acessou ali para tirar foto. A gente sabe que a Maria
+26:20 Hugo Seabra (HSB Tech): isso
+26:21 Raquel Oliveira: que tirou ou a Maria que Acessou a que que a Maria Tá acessando foto de pacientes que se ela nem é paciente dela para ver então esse segurança aí é
+26:31 Hugo Seabra (HSB Tech): é
+26:32 Raquel Oliveira: importante a gente ter porque o usuário funcionário ele pode fazer alguma maldade ou não? A gente sabe que isso é possível, né? Não pode ter isso
+26:41 Hugo Seabra (HSB Tech): Claro
+26:43 Raquel Oliveira: assim muito aberta.
+26:44 Hugo Seabra (HSB Tech): parte íntima pessoa com skate de Fora
+26:48 Raquel Oliveira: E isso é normal, então assim a Maria ela é um ela tem uma biometria que o aplicativo só libera porque a Maria se o Paulo falar não libera para o Paulo porque eu gosto da ideia do colaborador também.
+27:01 Hugo Seabra (HSB Tech): E alguns requisitos funcionais, por exemplo vai tirar foto de busto e seio né? A gente tentar de alguma maneira excluir o rosto dessa foto não precisa.
+27:10 Raquel Oliveira: não é isso nunca nunca tem mas
+27:12 Hugo Seabra (HSB Tech): A gente não pensou nisso, onde é que quer chegar o seguinte a primeira versão que até o nome do do do nosso dono do produto ali é o Paulo também, né junto com você, né? O Paulo tinha aceitado que não precisamos entrar nessas complexidades mesmo. Não vai entrar no orçamento vou deixar né? Porque vai assistir esse vídeo eu vou falar deixar claro não está entrando dentro desse orçamento. Todo essa estrutura o que a gente tá falando é de um produto que
+27:35 Raquel Oliveira: tem
+27:36 Hugo Seabra (HSB Tech): vai ser depois escalável para outros hospitais e clínicas, para que isso seja vendaval assim como fotodoque é.
+27:45 Raquel Oliveira: exatamente
+27:45 Hugo Seabra (HSB Tech): E aí entrou nesses meandros precisamos entrar numa estrutura. Então até chegar nesse ponto já vai o sistema já vai estar validado em mvps anteriores anteriores.
+27:57 Raquel Oliveira: Para a gente testar lá na clínica. usuário
+28:02 Hugo Seabra (HSB Tech): Usuário simples usuário tem acessar tudo os modos tirar foto não para é
+28:04 Raquel Oliveira: Um usuário vários de vários dispositivos A Maria tá na sala de preparação
+28:07 Hugo Seabra (HSB Tech): isso.
+28:10 Raquel Oliveira: tirou foto aparece no álbum da paciente que tá lá dentro do consultório já vai ver moldura.
+28:16 Hugo Seabra (HSB Tech): Todo mundo tem acesso a tudo por enquanto porque estamos validando
+28:19 Raquel Oliveira: É não é isso não é um problema molduras, né? Eu
+28:20 Hugo Seabra (HSB Tech): funcionalidade. Isso funcionalidades, entendeu? Que funcionalidades entregam valor avançamos as personas, o que que são as personas quem são quem vai olhar para isso para melhorar informações em tela informações de entrada e saída de dados para consistência e qualidade de dados Vale do Persona. Entra depois em produto que aí a gente vai um produto certo, né com devido termo de aceite, qualidade compliance e tudo certo.
+28:47 Raquel Oliveira: Bicicletas e Exatamente exatamente eu gostei dessa ideia também da gente fazer algum tipo de validação onde o próprio paciente também tá aceitando tirar foto por mais que ele aceite nele tá lá para aquilo eu não tenho nada documental, né hoje?
+29:01 Hugo Seabra (HSB Tech): É nada documental e outra coisa é bom aí, depende sempre vai seguir a lei ou não porque Se nós formos seguir a lei certinha, tem que entregar um papel para ele não pode só assinar porque hoje em dia no Brasil. O pessoal não tá seguindo essa lei. Você entrega um papel para ele falando que a clínica ser até respeitou, né? Eu como paciente adoraria isso, né que a clínica vai fazer um armazenamento seguro da Fotos por período determinado e depois de um período determinado essas fotos serão excluídas ou anonimizadas ponto o que que é harmonizado foto de rosto sai e fica só só os traços da moldura, por exemplo a gente pode excluir Todo o Olho do cadastrar.
+29:43 Raquel Oliveira: Entendi.
+29:44 Hugo Seabra (HSB Tech): Então a gente pode pode melhorar isso com o tempo.
+29:47 Raquel Oliveira: Ponto de vista Eu Sei. Que rosto é uma área que você domina bem então.
+29:51 Hugo Seabra (HSB Tech): Não é Já brinquei muito, né? Brinquei muito. Não existia ia que existe hoje, né? Olha que
+29:57 Raquel Oliveira: Eu falei eu falei isso para o Paulo. Eu falei assim o Hugo já faz reconhecimento trabalha com rosto e antes da Iara nesse nível aí então do ponto de vista técnico até jurídica, eu sei que você já sabe bastante coisa nisso aí então basicamente é isso aí essas essas ele não pode ser o complexo, ele tem que ser simples, é isso.
+30:18 Hugo Seabra (HSB Tech): Por isso que a gente tá trabalhando com personas diferentes, porque por exemplo
+30:21 Raquel Oliveira: inclusive
+30:21 Hugo Seabra (HSB Tech): a pessoa que tá tirando foto foi entrar com detalhamento dela fazer impulso de dados lá no rosto não faz sentido. O complexo ele é muito de acordo com Persona de acordo com as funcionalidades.
+30:32 Raquel Oliveira: E o que que acontece todo médico tem seu prontuário então ele consegue olhar no prontuário que foi feito e etc e ele tem um prontuário no sistema Oba, mas
+30:39 Hugo Seabra (HSB Tech): Santuário boa, essa é a palavra.
+30:44 Raquel Oliveira: obviamente que é prático se eu estou Qual que é a minha ferramenta de trabalho é argumentação quando eu estou com você na minha frente, eu tenho uma foto sua de antes e uma de depois. Na minha primeira consulta obviamente que eu só tenho a sua deste momento, mas depois eu vou ter uma foto sua de antes depois se a minha ferramenta de trabalho eu estou mostrando para você na minha mesa um tablet se uma determinada fotos específica eu clico aqui na sua frente e eu vejo olha nesse pontinho. Aqui foram duas seringas. Aqui foram mais quatro. Aqui foram é mais prático do que eu simplesmente eu deixo o tablet de lado.
+31:21 Hugo Seabra (HSB Tech): Com certeza
+31:22 Raquel Oliveira: Acesso meu prontuário eu consigo falar com ele a mesma coisa porque eu também escrevi no meu prontuário, mas como uma ferramenta visual uma ferramenta de trabalho aí obviamente que tem coisas que este aplicativo pode gerar quem interessa alguns parceiros, o parceiro em indústria é um parceiro que quer ele ele quer isso, imagina uma base de um aplicativo com 5 mil médicos com tô chutando tá 100 mil pacientes e eu tenho aqui 100 mil pacientes no quais nos últimos 1 ano é no bigode chinês foi utilizada a seringa na marca x eu tô tendo acesso tem lgpd, mas eu sou o dono do banco de dados, entendeu? A indústria ela quer ter esse acesso. Então são coisas ali para trabalhar com o dado depois que é um outro Business é uma outra forma de se relacionar com o mercado de monetização.
+32:22 Raquel Oliveira: Ou de parcerias. Eu tenho um amigo que tem um sistema de gestão para clínica de estética, então o sistema de gestão uma indústria se interessou pelo sistema dele. Por causa dos dados ele não tá preocupado se ele faturou um milhão por mês já e tá preocupado com os dados porque lá tem 3.000 clínicas que vai editar o padrão da indústria Caraca 3 mil pessoas estão utilizando mais esse produto mais esse do meu concorrente vende mais aquilo então para o cara é muito mais um laboratório ali de experiência, né do que então a indústria tem alguns interesses sobre esse tipo de trabalho por mais simples, que seja então a gente deixar ele mais inteligente eu tenho essa outra porta do dados, né? Não do bando de dados, mas do dado. Mas é uma outra dinâmica, né? Então basicamente isso. Então é isso a lógica eu preciso eu quero insistir para você navegar no foto doc tá? Eu quero que você baixa aí.
+33:21 Hugo Seabra (HSB Tech): Perfeito, vamos vamos fazer essa experiência, mas assim não tem como fazer uma imersão em algum momento, por exemplo. Sei lá a gente em vez de baixar porque eu acho que vai ficar muito mais caro para você, se você tiver por exemplo. Um procedimento ponta a ponta de como o computador que é feito em vídeo já me resolve o problema.
+33:38 Raquel Oliveira: Eu vou fazer não eu vou insistir para você fazer mas eu vou fazer essa ponta sem entender a lógica eu vou filmar as meninas fazendo Porque por mais que
+33:43 Hugo Seabra (HSB Tech): Tá bom.
+33:47 Raquel Oliveira: você navegue é bom você entender o processo aplicado a ferramenta.
+33:51 Hugo Seabra (HSB Tech): Quantos ambientes só o aplicativo aplicativo mobile? aplicativo e web
+34:00 Raquel Oliveira: Ele tem uma sessão web mas não mas não é acessível assim não.
+34:04 Hugo Seabra (HSB Tech): Tá bom.
+34:05 Raquel Oliveira: Não é basicamente 100% mobile para Tablet iPhone mesmo, entendeu? Eu nem considero uma versão Inicial assim. Pode tem que fazer né? Mas eu nem considero eu nem Considero a primeira versão Android porque Apesar que assim né deixou até corrigir meu minha forma de dizer as câmeras do iPhone são melhores e sobem com melhor resolução para o Instagram, mas a gente sabe que tem Android que tem câmeras melhores que iPhone então é câmera por câmera por dispositivo. Ambos tem câmeras boas, né?
+34:38 Hugo Seabra (HSB Tech): E aí você já tá acostumado com tecnologia desenvolver para Android é uma coisa desenvolver para iPhone é outra a não ser que a gente usa algumas tecnologias, por exemplo, a gente pode usar um react Nate ou algum a tecnologia que miga para os dois, mas por exemplo, eu acho que esse tipo de recurso envolvendo máscara de estruturação não funciona muito bem com esses frameworks para ambos aí vai ser nativo aí se for nativo, por exemplo se nós chegarmos à conclusão tecnologicamente vai ser o Nativa a gente foca só no iOS por enquanto.
+35:11 Raquel Oliveira: Isso eu gosto da ideia do nativo, por causa desse desse grau de tecnologia, por exemplo uma coisa que irrita muito lá no fotodoc. Não sei porque motivo cara, mas toda hora dá que o armazenamento Tá cheio aí que que tem que fazer o cara o Paulo vai lá no lugar da assinatura. Só clica em renova não acontece nada e trem volta a funcionar é um negócio que tá um ano assim e eles não mexem sabe? Então eles têm várias pequenas problemas e teve.
+35:39 Hugo Seabra (HSB Tech): Eles limitam a quantidade de fotos para o plano.
+35:42 Raquel Oliveira: Isso e teve e teve um outro um outro cara que fez um orçamento para o Paulo meio informal, mas fez um orçamento. Que ele ele fez uma navegação no fotodoc e ele encontrou brecha para invadir as fotos. Então assim é um aplicativo que tá estruturalmente com problemas, entendeu? Então, ele tem problema de Tecnologia de segurança, cara, a gente sabe como é que é o mundo aí, né? A minha cunhada a minha cunhada. Ela é genéco. Ela
+36:09 Hugo Seabra (HSB Tech): Tá bom.
+36:12 Raquel Oliveira: tem as fotos das pacientes com álbum do seu lado dela. Fala isso é loucura, entendeu?
+36:16 Hugo Seabra (HSB Tech): Cara, não é chega sem sono o nosso caso em específico é o celular é naturalmente vai armazenar, mas aí uma vez que o sistema falou assim, tá cercado. Apaga.
+36:28 Raquel Oliveira: E você consegue fazer isso automático não né? Tem que ser.
+36:31 Hugo Seabra (HSB Tech): Não não o aplicativo geralmente não. Apaga automático não.
+36:36 Raquel Oliveira: Mas quando a gente tira foto tem aquela ideia de salvar no dispositivo não salvar é?
+36:40 Hugo Seabra (HSB Tech): Então aí o que se eu não me engano para iOS eu posso optar e não salvar. Mas qualquer maneira ele salva no celular, só que em vez de salvar na galeria estava num teste.
+36:48 Raquel Oliveira: no cash aí você
+36:49 Hugo Seabra (HSB Tech): E aí, e aí e nós não paga o Cash infelizmente aí, você tem que depois ir lá no aplicativo e apagar os dados armazenados.
+36:53 Raquel Oliveira: Pagar manual é isso, mas pelo menos só de não ir para galeria já.
+37:00 Hugo Seabra (HSB Tech): Não só de mim para galeria é maravilhoso. A gente coloca isso como requisito
+37:02 Raquel Oliveira: É maravilhoso, entendeu?
+37:05 Hugo Seabra (HSB Tech): uma uma premissa, né? Não armazenar na galeria inicialmente, né? E aí
+37:12 Raquel Oliveira: porque
+37:13 Hugo Seabra (HSB Tech): Uma coisa importante, né? Deixa eu só te fazer uma pergunta sobre algumas alguns pontos aqui. Nós não vamos falar de monetização, por enquanto nem de volume as volumetrias, elas vão ser sanadas depois. a gente
+37:29 Raquel Oliveira: Tá falando foto da quantidade?
+37:31 Hugo Seabra (HSB Tech): Volumetrias é porque é o seguinte, aí eu vou entrar com você agora sobre tecnologia o produto a gente acha que fechamos o ciclo aqui de todos os requisitos. Porque que a presença requisito eu preciso o objetivo do projeto tá claro o nome do projeto da Claro justificativa do projeto da casa várias premissas do projeto. A gente falou que ao longo da jornada eu vou só sintetizar que depois restrições da Claro que a questão de comprar esses negócio que a gente falou mais outras coisas que a gente falou os corpo inicial, a gente vai definir.
+38:01 Hugo Seabra (HSB Tech): O que que é essencial para começar? Tá me ouvindo?
+38:05 Raquel Oliveira: Tô sim, tô sim.
+38:07 Hugo Seabra (HSB Tech): Abrir uma outra janela aqui na frente, eu achei que eu tinha fechado aqui sem querer os copo inicial, a gente vai fechar essa por onde nós vamos começar mas aqui no Tap vai estar como produto Inicial. Depois lá que a gente vai fazer o planejamento de MVP então para o nosso Estado por exemplo, não esse projeto que tá muito grande, não quero isso aqui tudo só para planejar o produto tá o papo fala de produto e não fala da das entregas.
+38:30 Hugo Seabra (HSB Tech): E depois disso a gente vai falar sobre é riscos iniciais o produto esperado final e os take holder que são as pessoas envolvidas, personas pessoas que a gente tá falando que a gente tá escrevendo aqui. Eu coloquei como ambiente no produto ideal ambiente no produto ideal um back office para fazer um Board da clínica hospital da instituição do usuário e depois ativação nesse usuário aí é onde a gente vai ter por exemplo. Você vai ter plano ou não plano de precificação não monetização não etc, ou seja, ele vai estar nesse back office não vai estar nem prevista agora.
+39:03 Raquel Oliveira: sim
+39:03 Hugo Seabra (HSB Tech): O ambiente web para a experiência do médico e o ambiente mobile para a experiência da operação de fotos e operação de comparação de faces além da estrutura.
+39:12 Raquel Oliveira: Se você quiser colocar ele no seu ambiente é do Web uma lógica de onboard, que que vai ser nessa lógica de onboard?
+39:21 Hugo Seabra (HSB Tech): Um bode de quem porque o onboard do da clínica do paciente do usuário e do médico já tá Como back office já já citei.
+39:28 Raquel Oliveira: Então beleza porque uma dificuldade que a gente tem no Doctor eu vou até te passar uma outra referência que chama RX RX fotos é gringo tá lá no Texas.
+39:37 Hugo Seabra (HSB Tech): É eu pensei em fazer o onboard aqui. O cara está no aplicativo, não tem auto
+39:39 Raquel Oliveira: O photodoxo você baixar agora ele na versão grátis, você tira foto você vê as coisas funcionando. O RX tem uma dinâmica diferente quando você baixa o aplicativo você Nem loga quando você clica em login abre uma página. Para o pessoal para você marcar uma reunião, então, eles nem deixa sem entrar para você não perder a experiência aí nessa reunião, eu fiz a reunião eles navegam no aplicativo todo eu inclusive a dinâmica que a gente quer seguir a gente nem quer deixar ele porque esses testes grátis, você sabe como é que funciona a pessoa tá aqui na cama, eu vou testar o aplicativo aí. Tira foto da parede tira foto do pé e vai fazendo uns testes. Mas nada a ver.
+40:18 Raquel Oliveira: mas
+40:22 Hugo Seabra (HSB Tech): registrar nessa primeira versão ele aí a gente dá um jeito de fazer ele entrar no WhatsApp. E aí?
+40:26 Raquel Oliveira: Aí o que que o que que é um bode que a gente quer dizer quando não tiver no jogo oficial a gente a gente como empresa quer dar suporte a clínica a equipe de preparação com vídeos com instrução. Como configurar e também no médico dentro do consultório para reforçar na cabeça dele o conceito o conceito é uma coisa que a gente provavelmente a gente vai conversar com uma empresa.
+40:51 Raquel Oliveira: A gente tá conversando com uma empresa especialista em branding etc te dar um exemplo que eu acho que é importante tá? É simples, mas ele precisa de uma boa embalagem, eu tava conversando com um cara que é especialista que fez um trabalho para até Chaco e Lubrificantes. Ele foi comentou né? Que ele pegou o trabalho de consultorias de branding anterior que a comunicação era nós somos fanáticos pu lubrificante. Aí ele pensou ninguém é fanático por lubrificante ele entrando ele andando de elevador, ele viu cara, o lubrificante tá no elevador lubrificante está no carro lubrificante tá na porta lubrificante tá na cozinha tá no liquidificador tá em tudo então o que que ele pensou lubrificante é a transformação. Então quando você vai na página da techaco a embalagem das propagandas parece aquelas propagandas de banco. Porque você pensa em Caraca velho É verdade lubrificante a transformação sem ele a gente não sobreviveria. Então a gente tá conversando com uma empresa para colocar esses Manifesto essa essa roupagem porque a gente conversando Igual eu falei assim.
+41:56 Raquel Oliveira: Só fazer um Manifesto de organizar o Manifesto bom, não sei se ele é plausível, mas ele é bom já é um Manifesto bom, mas é um Manifesto de isso vai te ajudar a vender mais também, pode ser? Porque se utiliza como ferramenta também, pode ser? Então a gente tá conversando com um especialista para que a gente consiga colocar uma embalagem um bom Manifesto nisso para que Poxa não é só um lubrificante.
+42:23 Hugo Seabra (HSB Tech): E o posicionamento é importante, né?
+42:24 Raquel Oliveira: É uma transformação de vida, poxa, não é o aplicativo de foto, cara. É tipo assim, o qual o seu Core Business é isso aqui sem isso aqui você não você não flui. Então a gente tá para chegar numa dinâmica que vai aglutinar essa tecnologia com essa comunicação para a gente falar assim, tá? Cheguei no mercado direito, entendeu? De um jeito que o fotó que às vezes não chegou por mais que seja simples, mas não tem um Manifesto bom, entendeu?
+42:51 Hugo Seabra (HSB Tech): Então basicamente o que você quer é claro, a gente tá falando de site de base de conhecimento é mostrar o produto através de manuaizinhos com videozinhos que a pessoa pode navegar e tudo mais mas basicamente o que você pediu agora pouco foi um ambiente. Onde o cara vai inserindo os dados dele vai até chegar no ponto que ele fala agende aqui o melhor dia para conversar com você ou alguma coisa assim, a gente vai entrar em contato então.
+43:17 Raquel Oliveira: Do usuário onde a gente vai.
+43:20 Hugo Seabra (HSB Tech): Um board de treinamento do usuário, tá bom?
+43:22 Raquel Oliveira: A gente vai treinar o usuário porque eu não quero que algo tenha uma clínica ele baixou lá o cara que ele marque. Olha vou te ajudar a fazer o setup aqui do
+43:28 Hugo Seabra (HSB Tech): isso
+43:31 Raquel Oliveira: cadastro de álbum. Vou fazer utiliza da melhor forma assim, vou ter um vídeo lá sobre sugestão de luz de sala, sabe então fazer umas Preparações de um bode que envolve o business como toda é o valor agregado, né? Se eu quiser. Ah
+43:46 Hugo Seabra (HSB Tech): perfeito
+43:48 Raquel Oliveira: vou tem aqui tem aqui nesse espaço do onboard aqui tem um vídeo. Melhor fotógrafo do Goiás sobre como tirar fotos luzes e ângulos e horários.
+43:59 Hugo Seabra (HSB Tech): Entendi.
+43:59 Raquel Oliveira: Então são coisas assim que é bom ter neste ambiente, entendeu?
+44:03 Hugo Seabra (HSB Tech): Beleza, eu só vou deixar claro então que esse ambiente de um body de Treinamento, ele também tem uma prioridade posterior ao desenvolvimento completo do produto para que só fique com que concha que no termo de abertura
+44:12 Raquel Oliveira: Eles ele ele envolve ele é um ponto, ele é um ponto comercial, ele vai estar
+44:15 Hugo Seabra (HSB Tech): mas não é prioridade lá no final.
+44:21 Raquel Oliveira: lá nas objeções. Eu tô fechando com você e fala. Olha isso aqui.
+44:25 Hugo Seabra (HSB Tech): Depois do produto pronto para escalar tá no ar. Aí você vai se posicionar vai fazer estratégia de venda vai fazer um monte de coisa.
+44:32 Raquel Oliveira: mas ele
+44:32 Hugo Seabra (HSB Tech): É porque eu acho eu acho que quando você for entrar nisso você vai entrar cara em muitos outros ambientes tem Website para você seguir e levantar tem a página do Instagram para você, se posicionar socialmente tem todo um monte de coisa envolvendo, né? Posicionamento. E aí vai atrás desses detalhes. E aí
+44:43 Raquel Oliveira: tem
+44:47 Hugo Seabra (HSB Tech): eu quero falar com você sobre um detalhe muito importante a gente tá falando até agora a gente falou sobre o tema de abertura. Tudo que envolve a experiência lá na frente do usuário, mas vamos falar um pouquinho sobre o back end e tudo que tem que ser que tetado no back end para isso. a gente precisa de armazenamento de foto a gente precisa de Gateway com
+45:11 Raquel Oliveira: pagamento
+45:12 Hugo Seabra (HSB Tech): Https organizadinho porque se tiver por exemplo na rede lá do hospital e Alguém teve na rede e pegar essas fotos também. Pode ser um problema. Ou seja a gente tem comunicações de rede que precisam ser previstas. Né? Você sabe disso, né? Se alguém colocar um wi-fi.
+45:33 Raquel Oliveira: Sim, sim, sim sim.
+45:34 Hugo Seabra (HSB Tech): Precisa estar organizado precisamos de um servidor de uma estrutura arquitetada para fazer o que nós chamamos de consistência eventual porque esses processamentos são sempre posteriores a ao processo então precisa criar todo uma estrutura de nuvem, então isso aí não é trivial para quando se trata de artefato foto e artefato processamento de fotos. Você já sabe que eu tô acostumado com isso, geralmente isso não é não é básico. A gente tá falando no sistema muito grande, mas tá falando um sistema que precisa de um certo cuidado esse cuidado em ser inicialmente na MVP. A gente vai atacar o fones nesse cuidado MVP dois OK Mp3 Ok mas olha que falar assim, cara, vamos já começar a rodar mesmo que seja a versão injuntíssima, a gente precisa garantir que essa foto não se perca tratar a qualidade porque o armazenamento custa lá na nuvem e não custa barato custa em dólar é caro.
+46:26 Hugo Seabra (HSB Tech): O domínio disso quando a TPS custa também na nuvem então assim de cara é o orçamento que vai ser feito o desenvolvimento do back, end vai ser separado isso para você entender essa complexidade e essa arquitetura não é trivial. Então o que eu sugiro para você é uma entrega um pouquinho diferente na hora que nós fomos planejar o MVP, como seria essa entrega dá para fazer tudo isso acontecer só mocado só com experiência do usuário falando. Olha vai armazenar assim vai entregar assim vai organizar assim e não tem deficiente.
+46:58 Hugo Seabra (HSB Tech): Essa é uma ótima entrega para falar para o Paulo falar Paulo é assim que vai ser a experiência. Sempre está fácil, mas não tem backnde não tem armazenamento de foto tá tudo no celular dispositivo, tá chato um dispositivo não vai ver o do outro então no dispositivo, só a gente faz tudo, né? E a gente organiza para facilitar e ser extremamente barato, porque eu lembro da preocupação do Paulo e falar assim me traz isso e faz ser aplicado factível.
+47:24 Hugo Seabra (HSB Tech): Né? E aí que acontece porque se for entrar esses membros do Black end para
+47:25 Raquel Oliveira: sim
+47:28 Hugo Seabra (HSB Tech): garantir essa sincronização garantida esse processamento todo demora e gera custo e não só custo é o curso desenvolvimento comigo o desenvolvimento curso de dispositivo e com os de nuvem que é com vocês também. Você sabe que nuvem agora nos últimos um ano e meio ficou muito mais caro que é normal, então a gente talvez procurar uma alternativa WS Alternativa de Google Cloud para tentar fazer essas estruturas. Eu particularmente estou hospedando uma coisa na minha máquina em casa para produtos MVP. Olha que interessante eu coloquei em perfil em casa. Coloquei uma máquina desktop então.
+48:03 Hugo Seabra (HSB Tech): Na minha máquina que não precisa ser rápido, não precisa ser altamente escalado, não precisa nada só funciona, né com ele Glock bonitinho funciona,
+48:11 Raquel Oliveira: Sim, sim, sim sim.
+48:13 Hugo Seabra (HSB Tech): então assim talvez a gente pode ir para caminhos onde essa escala vai até monetizar para funcionar e se for entrar nesses membros, eu vou dar o orçamento para você separado do produto enxuto ideal para validar porque eu tô entendendo que é uma preocupação do Paulo é me dá a experiência me faz isso funcionar. Mas fazer funcionar para você e para o Paulo que vai assistir esse vídeo depois funcionar não quer dizer funcional.
+48:40 Hugo Seabra (HSB Tech): Né? Ou seja? Ele tá funcionando, ele tá te mostrando essa experiência, mas não significa que essas fotos estão armazenando em nuvem não significa que eu estou fazendo backup dessas fotos não significa que eu tenho até um domínio, né? Isso pode ser você pode inclusive fazer você rodar esse cara no notebook aplicativo funcionar no notebook.
+48:57 Raquel Oliveira: É e tem essa vantagem que a gente consegue saturar isso com a nossa sem usar em clientes, eu consigo usar os próprios colaboradores, eu tenho lá 22 meninas que podem se saturarem, né? Tirando fotos delas mesmos e entendendo este fluxo,
+49:11 Hugo Seabra (HSB Tech): Entendi.
+49:14 Raquel Oliveira: entendeu? Então eu não preciso interromper o meu fluxo de comercial real com a paciente real para correr com celular para médica para médica. Eu consigo saturar isso com pessoas que utilizam isso diariamente eu acho que é uma boa hipótese, tá bom?
+49:31 Hugo Seabra (HSB Tech): Pois é, pois é, então a gente vai a gente vai definir as tecnologias inicialmente, mas o plano de entrega vamos Vamos considerar que quando o Paulo visualizar quem já tá tirando foto fazendo comparação e quem sabe até fazer relatórios por foto lá pra toalha não vai estar o produto ideal final pronto, é isso a gente deixa Claro, tá?
+49:55 Raquel Oliveira: E a ideia é essa ou é existe a disposição de ir para o mercado bem feito então o investimento pode ser considerável até o produto final mas a validação. Do processo ela tem que ser barata, porque pode ser que a gente desista antes de gastar muito, né? Por algum motivo aí a ideia e a ideia.
+50:19 Hugo Seabra (HSB Tech): E é por isso que está fazendo enxuta MVP para isso, né?
+50:22 Raquel Oliveira: E a ideia a ideia é essa mesmo? Ah vou contar não. A ideia é essa mesmo. Vou
+50:24 Hugo Seabra (HSB Tech): Vai que o produto não é nada que você tá falando cara. Vamos para essa linha aqui que aí dá certo porque toda a ideia é lapidada, né?
+50:31 Raquel Oliveira: manipular ali, vou ver as molduras. Vou ver o Fantasma salvou coragem galeria,
+50:35 Hugo Seabra (HSB Tech): É isso.
+50:37 Raquel Oliveira: tá isso aqui mesmo. As meninas tão bom as meninas que tiram. 200 fotos por dia vão ser nossas melhores testes, entendeu? Então. todos os dias ali com relação
+50:49 Hugo Seabra (HSB Tech): Eu acho que eu acho que a gente pode concluir Paulo e aí é o seguinte. Quais são as etapas seguintes eu vou consolidar tudo que a gente falou no documento único. Vou te mandar você fala assim, cara, é isso mesmo da validade. Você pode cortar acrescentar a gente vai organizar, isso é melhor a hora que a gente falasse é isso, esse é escopo aí, eu vou te fazer um orçamento não do software, vou fazer um orçamento da engenharia de requisitos, como nós
+51:13 Raquel Oliveira: o plano
+51:16 Hugo Seabra (HSB Tech): combinamos que é o Projeto propriamente dito que é uma consolidação disso para falar cara. Dá para fazer desse jeito. E qual vai ser o produto final que eu Entregar um plano de desenvolvimento esse plano de desenvolvimento basicamente vai ser aquela igual aquela tela que eu te mostrei que tá gravada nesse vídeo que é na primeira etapa, vamos entregar eles na segunda. Etapa, vamos entregar eles na terceira. Etapa, vamos entregar isso esse plano de desenvolvimento não vai ter orçamento porque hora que você validassem cara, então vamos nessa linha, aí eu te faço o orçamento por plano.
+51:45 Hugo Seabra (HSB Tech): É porque aí você gasta dinheiro com um passo seguinte não precisa gastar dinheiro todos de uma vez a não ser que você fala assim, cara para mim é o passo 3 que funciona então eu te faço um orçamento conjunto, né? Um dois e três você paga os cachorros orçamento. Na verdade eu faço um dois e três
+52:00 Raquel Oliveira: tá
+52:00 Hugo Seabra (HSB Tech): lembrando consideração isso eu preciso entender as tecnologias até lá porque eu preciso correr atrás de alguns profissionais já não tem nenhum desenvolvedor nativo agora para IOS no momento, eu preciso correr atrás.
+52:10 Raquel Oliveira: tá
+52:10 Hugo Seabra (HSB Tech): E aí aonde a gente eu já deixo por exemplo a casa pronta para falar cara. Tá planejado tá organizado e eu e a gente põe esse negócio para rodar.
+52:18 Raquel Oliveira: É designer, você não vai estar contemplando não, né?
+52:18 Hugo Seabra (HSB Tech): É isso. Então hoje em dia o mundo da IATA muito bom dá para fazer um design de uma ótima experiência porque o que acontece hoje em dia a gente não precisa ficar quebrando a cabeça com figo ainda com essas coisas ainda quando eu tiver com o produto ideal ponto final, aí você cria uma identidade própria produto por enquanto cara. Vamos remor de elementos visuais, entendeu?
+52:39 Raquel Oliveira: Eu gosto do Jason. Você conhece o Jason design?
+52:45 Hugo Seabra (HSB Tech): sim
+52:46 Raquel Oliveira: Eu acho ele Fantástico para isso, entendeu? Mas assim.
+52:48 Hugo Seabra (HSB Tech): Não eu vou te mostrar eu vou te mostrar eu vou te mostrar um cara chamado payond. Que aí você desenvolve um negócio cromático preto e branco e aí você pega uma paleta e fala o seguinte aplica a paleta para cima e ele colora o negócio e defina o negócio é genial.
+53:03 Raquel Oliveira: A vantagem a sua visão de MVP é uma visão diferente, então você quer que a gente realmente faça por etapas Econômica valide para depois fazer o trem.
+53:13 Hugo Seabra (HSB Tech): Isso não não é isso. Aí, você vai para empresa tradicional que o fábrica
+53:13 Raquel Oliveira: Eu quero essa visão mesmo, eu não quero. Ah, quanto que é um milhão tá mas não é isso que eu quero se eu gastar.
+53:23 Hugo Seabra (HSB Tech): de soft que vai te passar que vai estar doido para arrancar de você meio milhão aí para idear mais ou menos o que você quer, não é ideia.
+53:29 Raquel Oliveira: 50 tá na linha boa, aí nós vamos avançando tá ótimo, entendeu?
+53:34 Hugo Seabra (HSB Tech): É porque é o seguinte quando eu te apresentar o plano de MVP, por exemplo, talvez até ali o projeto morre o projeto. Fala cara. Não é isso, né? Então
+53:43 Raquel Oliveira: Ele muda.
+53:43 Hugo Seabra (HSB Tech): e aí não precisa gastar dinheiro colocando mão em massa de coisa que tá ideando ainda.
+53:47 Raquel Oliveira: É por isso que existe o plano ele existe para fazer o cara não gastar 10 milhões e gastou 500 mil para não gastar 10 milhões e gastou 10 mil. Para não gastar 100 mil.
+53:55 Hugo Seabra (HSB Tech): Eu comparo muito o desenvolvimento do software, eu tô fazendo a casa agora, né? Tô no processo de fazer uma casa cara como a minha experiência em engenharia civil que se compara sofre. Eu parei a minha obra para chamar a minha arquiteta e meu Engenheiro sem ter os dois na frente. Falei assim agora vocês vão brigar um com o outro. Adoro eles brigando. Porque para mim é benefício para falar o seguinte. Que que tem que fazer aí, eles atualizaram o meu projeto, aí eu gastei 10 mil a mais um projeto que não estava previsto para não perder 60 mil em quebra quebradeira de coisas que vai desfazer. Então antes de fazer coisa depois de fazer coisa eu parei e falei assim, cara. Vamos definir porque se eu for comprar material errado, depois tem que vender isso de volta, ou se eu for subir uma parede errada um banheiro errado. Eu vou ter que quebrar e fazer de novo.
+54:36 Raquel Oliveira: Sim exatamente.
+54:36 Hugo Seabra (HSB Tech): Então assim eu gastei 10 mil no projeto, mas se eu quebrar a parede fazer de novo, eu já gastei 15 eu já perdi o dinheiro que eu não gastaria com o projeto então pensar nesse momento é crucial, porque software ele é intelectual inteligível é difícil você medir, isso é difícil você mensurar isso. Porque isso pode variar muito então a gente tem que nessa linha mesmo, por isso que eu vou fazer o projeto para você o orçamento do projeto aí manda depois assim que você validar o documento e a gente fechado.
+55:05 Raquel Oliveira: A previsão sua para esse orçamento do TPA aí você acha que fica o quê?
+55:08 Hugo Seabra (HSB Tech): Não até segunda-feira eu já te mando o Tap seja valido o top para mim na segunda mesmo. Não sei quanto mais rápido tá? Você vai lhe dar melhor. E aí contap eu já te faço o orçamento do projeto eu te entrego até na sexta-feira da semana que vem.
+55:19 Raquel Oliveira: Nos requisitos não Fechou então combinado.
+55:22 Hugo Seabra (HSB Tech): Tá ou seja, se tudo der certo na sexta-feira da próxima semana de hoje é uma semana a gente tem o projeto pronto e o plano de MVP pronto para fazer uma reunião nessa segunda na outra sobre vamos validar o MVP. Vamos desenvolver nessa linha aqui. Essa é isso que vocês querem, como é que vai ser feito, entendeu? E a gente entra nessa linha.
+55:40 Raquel Oliveira: Não combinado então.
+  

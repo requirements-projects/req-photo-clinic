@@ -1,0 +1,6 @@
+.idea
+.DS_STORE
+.vscode/
+base/site
+base/.venv
+base/venv
