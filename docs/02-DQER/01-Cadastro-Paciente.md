@@ -72,18 +72,18 @@ O módulo Cadastro e Gestão de Pacientes é responsável por gerenciar todas as
   - **Critério de aceitação:** Assinaturas devem ser registradas e associadas ao paciente.
   - **Prioridade:** Média
 
+
 - **RF-CGP-008:** Exportação de dados de pacientes
   - **Descrição:** O sistema deve permitir a exportação de dados de pacientes em formatos padrão (CSV, PDF, JSON).
   - **Critério de aceitação:** Exportação deve ser realizada em formatos padrão e segmentados por múltiplos critérios.
   - **Prioridade:** Média
+
 
 - **RF-CGP-009:** Relatórios customizáveis
   - **Descrição:** O sistema deve permitir a geração de relatórios customizáveis com base nos dados de pacientes, com opções de agendamento e distribuição automática.
   - **Critério de aceitação:** Relatórios podem ser exportados em formatos padrão (CSV, PDF, JSON), segmentados por múltiplos critérios, e distribuídos automaticamente por e-mail ou integração com sistemas externos.
   - **Prioridade:** Média
  
-
-
 
 
 
