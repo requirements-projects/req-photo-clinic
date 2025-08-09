@@ -63,7 +63,7 @@ Desenvolver um aplicativo móvel que permita a captura, organização, sincroniz
 
 Os domínios do sistema representam áreas funcionais organizadas para atender às necessidades específicas da clínica estética, agrupando módulos que compartilham objetivos semelhantes e funcionalidades interdependentes.
 
-### 7.1. Cadastro e Gestão de Pacientes
+### 7.1. Domínio de Cadastro e Gestão de Pacientes
 
 Gerenciar informações pessoais, clínicas e fotográficas dos pacientes.
 
@@ -73,12 +73,11 @@ Gerenciar informações pessoais, clínicas e fotográficas dos pacientes.
 | 7.1.1 | Cadastro de Pacientes             | Permite cadastrar e atualizar dados básicos do paciente: nome, contato, CPF, data de nascimento, foto de perfil, etc.                                                                                                                                               Registro de dados clínicos relevantes (alergias, observações de pele, uso de medicamentos etc.). |  Registros Fotográficos, Módulo de Relatórios
 | 7.1.2 | Histórico Clínico Fotográfico     | Armazena e organiza o acervo de imagens e registros visuais por atendimento.                                          | Registros Fotográficos, Agendamentos, e Assinatura de Termos.
 | 7.1.3 | Organização por Sessão/Tratamento | Vincula imagens a sessões específicas ou protocolos realizados na clínica.   
-|7.1.4|  Agenda de Sessões e Atendimentos| Permite o agendamento, reagendamento e cancelamento de sessões de atendimento ou registro fotográfico.|  Organização Fotográfica, Gestão de Tratamentos, Módulo de Relatórios.
 
 
 
 
-### 7.2. Registro Fotográfico
+### 7.2. Domínio de Registro Fotográfico
 
 Padronizar a captura e armazenamento de fotos antes, durante e após sessões.
 
@@ -88,12 +87,12 @@ Padronizar a captura e armazenamento de fotos antes, durante e após sessões.
 | 7.2.2 | Modo Fantasma       | Sobreposição da imagem anterior para garantir alinhamento exato na nova captura. | Integra com Captura de Imagens e Galeria
 | 7.2.3 | Edição de Imagens   | Recursos básicos de corte, brilho, contraste e anotações visuais.  Aplicação de filtros técnicos               |Integra com Galeria, Colagem e Relatórios
 | 7.2.4 | Criação de Colagens | Permite combinar fotos em uma mesma visualização comparativa.| Integra com Galeria de Pacientes e Exportação
-| 7.2.5 | Organização |  Organização por data, área e tipo de procedimento| Integra com Histórico e Pacientes
+| 7.2.5 | Organização de Fotos |  Organização por data, área e tipo de procedimento| Integra com Histórico e Pacientes
 
 
 
 
-### 7.3. Edição e Colagem de Imagens
+### 7.3. Domínio de Edição e Colagem de Imagens
 
 Recursos visuais para comparação e documentação técnica.
 
@@ -107,7 +106,7 @@ Recursos visuais para comparação e documentação técnica.
 
 
 
-### 7.4. Gestão de Tratamentos 
+### 7.4. Domínio de Gestão de Tratamentos 
 
 Organização dos procedimentos realizados em cada paciente.
 
@@ -115,7 +114,6 @@ Organização dos procedimentos realizados em cada paciente.
 |---|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
 | 7.4.1 | Etapas do Tratamento      | Associação de imagens a cada fase do procedimento. |Integra com Galeria e Histórico Clínico|
 7.4.2 |Registro de Produtos | Armazena os produtos utilizados em cada etapa.|Integra com Relatórios Clínicos|
-7.4.3| Agendamento de Sessões |Organização das sessões futuras conforme protocolos definidos.|Integra com Agenda e Pacientes|
 7.4.4| Evolução Clínica| Registro de evolução com base em fotos, colagens e observações clínicas.|Integra com Galeria e Relatórios
 
 ### 7.5.  Domínio de Administração e Configurações
