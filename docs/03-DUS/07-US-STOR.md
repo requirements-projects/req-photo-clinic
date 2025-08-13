@@ -12,7 +12,7 @@
 
 **Como** um Administrador do Sistema,
 **Eu quero** que todos os dados de pacientes, especialmente as fotos, sejam armazenados com criptografia tanto no dispositivo quanto no servidor em nuvem,
-**Para que** o sistema esteja em conformidade com a LGPD e os dados sensíveis dos pacientes estejam protegidos contra acessos não autorizados.
+**Para que** os dados sensíveis dos pacientes estejam protegidos contra acessos não autorizados.
 
 ### Critérios de Aceitação
 1.  **Dado que** uma nova foto é capturada,

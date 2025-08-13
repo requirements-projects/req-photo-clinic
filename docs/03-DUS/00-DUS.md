@@ -1,95 +1,68 @@
-# Documento de User Stories (DUS)
+# Documento de Histórias de Usuário (DUS)
 
-## 1. Propósito deste Documento
-Este documento organiza e detalha as histórias de usuário derivadas dos requisitos funcionais e das problemáticas identificadas no DQER. Ele visa alinhar expectativas funcionais de forma clara e compreensível para todas as partes envolvidas no desenvolvimento.
+## 1. Propósito
 
-## 2. Público-alvo
-Este documento destina-se a desenvolvedores, analistas, product owners, designers e qualquer stakeholder envolvido no processo de construção da solução.
+Este documento traduz os requisitos do sistema PhotoClinic, detalhados no DQER, em Histórias de Usuário (User Stories).
+Seu objetivo é fornecer uma visão clara e centrada no usuário sobre as funcionalidades a serem desenvolvidas, garantindo
+que a equipe de desenvolvimento compreenda o valor de cada entrega sob a ótica de quem utilizará o sistema.
 
-## 3. Estrutura da User Story
+## 2. Perfis de Usuário (Personas)
 
-> Cada user story deve conter:
-> - ID (formato: US-[SIGLA]-[NÚMERO])
-> - Título breve
-> - Descrição no formato "Como [persona], quero [ação] para [benefício]"
-> - Critérios de aceitação
-> - Notas técnicas
-> - Referências ao DQER (requisitos relacionados)
-> - Problema resolvido
+As histórias de usuário são contadas a partir da perspectiva de diferentes perfis que interagem com o sistema:
 
-## 4. Domínios e Módulos do Sistema
+- **Recepcionista:** Responsável pelo primeiro contato com o paciente, agendamentos e gestão de dados cadastrais.
+- **Profissional de Saúde:** O usuário principal do sistema (médico, esteticista, etc.), responsável por toda a jornada
+  clínica, desde a captura de imagens e anotações em prontuário até a apresentação dos resultados.
+- **Administrador do Sistema:** Perfil técnico com acesso a configurações avançadas, gestão de usuários e extração de
+  dados para conformidade com a LGPD.
 
-As user stories do sistema estão organizadas por módulos, seguindo a mesma estrutura do DQER. Cada módulo possui seu próprio documento de user stories com informações específicas sobre seu contexto e funcionalidades.
+## 3. Estrutura da História de Usuário
 
-### 4.1. Segurança
+Cada história de usuário seguirá o formato padrão abaixo para garantir consistência e clareza:
 
-Este domínio abrange a segurança e auditoria do sistema, incluindo autenticação, autorização, log de atividades e prevenção a fraudes.
+- **ID:** Um identificador único no formato `[US-SIGLA-NÚMERO]`.
+- **Título:** Um resumo curto e direto da história.
+- **Descrição:** No formato clássico: **Como** `[perfil de usuário]`, **Eu quero** `[realizar uma ação]`, **Para que**
+  `[eu obtenha um benefício]`.
+- **Critérios de Aceitação:** Condições específicas que a funcionalidade deve atender para ser considerada concluída.
+- **Referências:** Vínculo com os Requisitos Funcionais (RFs) correspondentes no DQER.
 
-| #   | Seção                             | Descrição                                         | Detalhamento do módulo                          |
-|-----|-----------------------------------|---------------------------------------------------|-------------------------------------------------|
-| 1   | Auditoria de dados                | Relatório de ações de usuários no sistema         | [Auditoria de Dados](01-Auditoria-dados.md)     |
-| 2   | Controle de Acesso e Permissões   | Gestão de permissões e perfis                     | [RBAC](02-RBAC.md)                              |
-| 3   | Prevenção de Fraudes e Validações | Mecanismos de segurança e validação de operações  | [Prevenção de Fraudes](11-Prevencao-fraudes.md) |
+## 4. Domínios e Módulos
 
-### 4.2. Infraestrutura da Fazenda
+As histórias estão agrupadas por módulos, refletindo a arquitetura definida no DQER.
 
-Este domínio abrange o mapeamento e gestão da estrutura física da fazenda e das pessoas que nela atuam.
+### 4.1. Domínio de Gestão (DG)
 
-| #   | Seção               | Descrição                                                            | Detalhamento do módulo          |
-|-----|---------------------|----------------------------------------------------------------------|---------------------------------|
-| 1   | Infraestrutura      | Gestão da estrutura física da fazenda, pastos, retiros e instalações | [Fazenda](03-Fazenda.md)        |
-| 2   | Membros de Fazendas | Gestão de funcionários, colaboradores e seus perfis                  | [Membros](04-Membros-fazenda.md) |
+| #   | Módulo                | Sigla | Detalhamento                            |
+|-----|-----------------------|-------|-----------------------------------------|
+| 1.1 | Cadastro de Paciente  | CPAC  | [Histórias de Usuário](./01-US-CPAC.md) |
+| 1.2 | Gestão de Prontuários | CPRO  | [Histórias de Usuário](./02-US-CPRO.md) |
 
-### 4.3. Insumos
+### 4.2. Domínio de Registro Fotográfico (DRF)
 
-Este domínio abrange o controle de insumos e equipamentos utilizados na operação da fazenda.
+| #   | Módulo                        | Sigla | Detalhamento                            |
+|-----|-------------------------------|-------|-----------------------------------------|
+| 2.1 | Histórico Clínico Fotográfico | HCF   | [Histórias de Usuário](./03-US-HCF.md)  |
+| 2.2 | Captura de Imagens            | CIM   | [Histórias de Usuário](./04-US-CIM.md)  |
+| 2.3 | Processamento de Imagens      | PIMA  | [Histórias de Usuário](./05-US-PIMA.md) |
 
-| #   | Seção             | Descrição                                      | Detalhamento do módulo           |
-|-----|-------------------|------------------------------------------------|----------------------------------|
-| 1   | Fornecedores      | Gestão de fornecedores de insumos e serviços   | [Fornecedores](05-Fornecedores.md) |
-| 2   | Gestão de Estoque | Controle de entrada, saída e saldo de insumos  | [Estoque](06-Estoque.md)         |
-| 3   | Maquinários       | Inventário e controle de maquinário da fazenda         | [Maquinário](07-Maquinario.md)   |
-| 4   | Fábrica de Ração  | Formulação, produção e distribuição de rações personalizadas | [Fábrica de Ração](07-Fabrica-de-racao.md) |
+### 4.3. Domínio de Infraestrutura (DI)
 
-### 4.4. Gestão de Rebanho
+| #   | Módulo               | Sigla | Detalhamento                            |
+|-----|----------------------|-------|-----------------------------------------|
+| 3.1 | Sincronização        | SYNC  | [Histórias de Usuário](./06-US-SYNC.md) |
+| 3.2 | Armazenamento        | STOR  | [Histórias de Usuário](./07-US-STOR.md) |
+| 3.3 | Backup e Recuperação | BACK  | [Histórias de Usuário](./08-US-BACK.md) |
 
-Este domínio abrange o controle e gestão do rebanho, incluindo manejo, reprodução e saúde animal.
+### 4.4. Domínio de Experiência do Usuário (DUX)
 
-| #   | Seção                | Descrição                                               | Detalhamento do módulo                       |
-|-----|----------------------|---------------------------------------------------------|----------------------------------------------|
-| 1   | Manejo de Rebanho    | Controle de movimentações e agrupamentos de animais     | [Manejo de Rebanho](05-Manejo-de-rebanho.md) |
-| 2   | Controle Reprodutivo | Gerenciamento do ciclo reprodutivo do rebanho           | [Reprodutivo](07-Reprodutivo.md)             |
-| 3   | Controle Sanitário   | Gerenciamento de ações sanitárias aplicadas ao rebanho  | [Sanitário](07-Sanitario.md)                 |
-
-### 4.5. Operação
-
-Este domínio abrange a gestão das operações diárias da fazenda, incluindo planejamento de rotinas e atividades.
-
-| #   | Seção                | Descrição                                          | Detalhamento do módulo                    |
-|-----|----------------------|----------------------------------------------------|-------------------------------------------|
-| 1   | Plano de Rotina      | Planejamento de rotinas operacionais estruturadas  | [Plano de Rotina](08-Plano-de-rotinas.md) |
-| 2   | Gestão de Atividades | Gerenciamento de tarefas diárias e recorrentes     | [Atividades](09-Atividade.md)             |
-
-### 4.6. Financeiro
-
-Este domínio abrange o gerenciamento financeiro da operação pecuária.
-
-| #   | Seção      | Descrição                                     | Detalhamento do módulo         |
-|-----|------------|-----------------------------------------------|--------------------------------|
-| 1   | Financeiro | Gerenciamento financeiro da operação pecuária | [Financeiro](10-Financeiro.md) |
-
-### 4.7. Ferramentas de Plataforma
-
-Este domínio abrange funcionalidades transversais que permeiam todo o sistema.
-
-| #   | Seção                       | Descrição                                                | Detalhamento do módulo              |
-|-----|-----------------------------|----------------------------------------------------------|-------------------------------------|
-| 1   | Plataformas e Sincronização | Gestão de plataformas web/mobile e sincronização offline | [Plataformas](11-Platforms-sync.md) |
-| 2   | Backoffice                  | Funcionalidades administrativas para gestão da plataforma, incluindo gestão de clientes, planos de assinatura e configurações do sistema. | [Backoffice](12-Backoffice.md)                |
+| #   | Módulo                  | Sigla | Detalhamento                             |
+|-----|-------------------------|-------|------------------------------------------|
+| 4.1 | Interface de Fotografia | UIFOT | [Histórias de Usuário](./09-US-UIFOT.md) |
+| 4.2 | Interface de Consulta   | UICON | [Histórias de Usuário](./10-US-UICON.md) |
 
 ## 5. Observações Finais
 
-> As user stories foram derivadas dos requisitos funcionais, não-funcionais e regras de negócio definidos no DQER.  
-> Cada módulo contém user stories focadas na resolução dos problemas identificados no contexto do sistema BoiView.  
-> A implementação deve priorizar as histórias de acordo com as necessidades de negócio e dependências técnicas.  
-> Cada user story deve ser validada com stakeholders relevantes antes e após sua implementação.
+- Cada história de usuário deve ser validada com os stakeholders antes do início do desenvolvimento.
+- A priorização das histórias deve levar em conta o valor de negócio, as dependências técnicas e as necessidades dos
+  usuários.

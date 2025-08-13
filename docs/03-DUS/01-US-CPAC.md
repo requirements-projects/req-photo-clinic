@@ -85,7 +85,7 @@
 
 **Como** um Administrador do Sistema,
 **Eu quero** exportar os dados cadastrais completos de um paciente em formato PDF,
-**Para que** eu possa atender a uma solicitação do titular dos dados, conforme a LGPD.
+**Para que** eu possa atender a uma solicitação do titular dos dados.
 
 ### Critérios de Aceitação
 1.  **Dado que** estou no perfil de um paciente,
